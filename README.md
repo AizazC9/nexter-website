@@ -2,7 +2,7 @@
 
 Welcome to the Nexter website repository! Nexter is a frontend of property purchasing website designed to showcase various properties and their details, allowing customers to browse and purchase them seamlessly.
 
-Check out the website: [Nexter Website]([https://www.your-nexter-website.com](https://aizazc9.github.io/nexter-website/))
+Check out the website: [Nexter Website](https://www.your-nexter-website.com](https://aizazc9.github.io/nexter-website/)
 
 ## Technologies Used
 
